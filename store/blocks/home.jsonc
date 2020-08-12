@@ -11,7 +11,12 @@
       "shelf"
     ]
   },  
-
+  "flex-layout.row":{
+    "children": [
+      "info-card#rethink",
+      "flex-layout.col"
+    ]
+  },
   "rich-text": {
     "props": {
       "text": "**Hello, World!**",
